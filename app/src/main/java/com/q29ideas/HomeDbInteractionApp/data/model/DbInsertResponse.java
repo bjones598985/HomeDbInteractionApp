@@ -1,4 +1,4 @@
-package q29ideas.com.retrofitexample.data.model;
+package com.q29ideas.HomeDbInteractionApp.data.model;
 
 /**
  * Created by Bobby Jones on 2/18/2018.

@@ -1,4 +1,4 @@
-package q29ideas.com.retrofitexample;
+package com.q29ideas.HomeDbInteractionApp;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import q29ideas.com.retrofitexample.data.model.Record;
+import com.q29ideas.HomeDbInteractionApp.data.model.Record;
 
 //Created on 2/17/2018
 

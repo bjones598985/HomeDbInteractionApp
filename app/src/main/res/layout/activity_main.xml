@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="q29ideas.com.retrofitexample.MainActivity">
+    tools:context="q29ideas.com.HomeDbInteractionApp.q29ideas.HomeDbInteractionApp.MainActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_answers"

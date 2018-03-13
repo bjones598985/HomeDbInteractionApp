@@ -1,7 +1,4 @@
-package q29ideas.com.retrofitexample.data.model.Remote;
-
-import q29ideas.com.retrofitexample.MainActivity;
-import retrofit2.Retrofit;
+package com.q29ideas.HomeDbInteractionApp.data.model.Remote;
 
 //Created on 2/17/2018.
 

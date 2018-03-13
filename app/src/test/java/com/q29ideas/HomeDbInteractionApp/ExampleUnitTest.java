@@ -1,4 +1,4 @@
-package q29ideas.com.retrofitexample;
+package com.q29ideas.HomeDbInteractionApp;
 
 import org.junit.Test;
 

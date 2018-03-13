@@ -1,4 +1,4 @@
-package q29ideas.com.retrofitexample;
+package com.q29ideas.HomeDbInteractionApp;
 
 import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -12,13 +12,15 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.q29ideas.HomeDbInteractionApp.data.model.DbQueryResponse;
+
 import java.util.ArrayList;
 
-import q29ideas.com.retrofitexample.data.model.DbInsertResponse;
-import q29ideas.com.retrofitexample.data.model.DbQueryResponse;
-import q29ideas.com.retrofitexample.data.model.Record;
-import q29ideas.com.retrofitexample.data.model.Remote.ApiUtils;
-import q29ideas.com.retrofitexample.data.model.Remote.SOService;
+import q29ideas.com.HomeDbInteractionApp.R;
+import com.q29ideas.HomeDbInteractionApp.data.model.DbInsertResponse;
+import com.q29ideas.HomeDbInteractionApp.data.model.Record;
+import com.q29ideas.HomeDbInteractionApp.data.model.Remote.ApiUtils;
+import com.q29ideas.HomeDbInteractionApp.data.model.Remote.SOService;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;

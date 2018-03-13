@@ -1,4 +1,4 @@
-package q29ideas.com.retrofitexample.data.model.Remote;
+package com.q29ideas.HomeDbInteractionApp.data.model.Remote;
 
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "q29ideas.com.retrofitexample"
+        applicationId "com.q29ideas.HomeDbInteractionApp"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
