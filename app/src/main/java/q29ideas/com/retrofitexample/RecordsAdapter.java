@@ -8,12 +8,9 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import q29ideas.com.retrofitexample.data.model.Item;
 import q29ideas.com.retrofitexample.data.model.Record;
 
-/**
- * Created by Bobby Jones on 2/17/2018.
- */
+//Created on 2/17/2018
 
 public class RecordsAdapter extends RecyclerView.Adapter<RecordsAdapter.ViewHolder> {
 
